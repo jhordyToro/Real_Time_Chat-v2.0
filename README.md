@@ -7,8 +7,8 @@ Simple page of chat real time
 
 ### Dependencies
 - Python 3.10.5
- -Django 4.0.5
- -channels 3.0.4
+-Django 4.0.5
+-channels 3.0.4
 
 ### Signup of the page
 <img src="https://i.imgur.com/RKhkI0c.png"></img>
