@@ -6,7 +6,7 @@ Simple page of chat real time
 #### Page by [@jhordy](https://github.com/jhordytoro)
 
 ### Dependencies
-- Python 3.10.5
+- Python 3.10.5 
 -Django 4.0.5
 -channels 3.0.4
 
@@ -19,6 +19,6 @@ Simple page of chat real time
 ### chat of the rooms
 <img src="https://i.imgur.com/TJMpJaf.png"></img>
 
-### Support Us
+
 Facebook [@jhordytoro](https://www.facebook.com/jhordy.toroarroyo.9)<br>
 Twitter [@jhordytoro](https://twitter.com/jhordy_toro)
