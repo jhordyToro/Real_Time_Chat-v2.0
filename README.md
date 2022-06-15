@@ -13,10 +13,10 @@ Simple page of chat real time
 ### Signup of the page
 <img src="https://i.imgur.com/RKhkI0c.png"></img>
 
-### Rooms of the page
+### Rooms of the page - on mobile devices
 <img src="https://i.imgur.com/oiJ1VM9.png"></img>
 
-### chat of the rooms
+### chat of the rooms - on mobile devices
 <img src="https://i.imgur.com/TJMpJaf.png"></img>
 
 
