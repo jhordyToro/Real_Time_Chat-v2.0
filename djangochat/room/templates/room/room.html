@@ -42,3 +42,29 @@
     </div>
 
 {% endblock %}
+
+{% block scripts %}
+{{ room.slug|json_script:"json-roomname" }}
+    <script>
+        const roomName = JSON.parse(document.getElementById('json-roomname').textContent);
+
+        const chatSocket = new WebSocket(
+            'ws://'
+            + window.location.host
+            + '/ws/'
+            + roomName
+            +'/'
+        );
+
+        chatSocket.onmessage = function(e) {
+            console.log('onmessage')
+        }
+
+        chatSocket.onclose = function(e) {
+            console.log('onclose')
+        }
+
+        
+
+    </script>
+{% endblock %}
