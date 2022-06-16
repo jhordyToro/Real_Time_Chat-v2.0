@@ -62,6 +62,8 @@
 
                 document.querySelector('#chat-messages').innerHTML += html;
 
+                scrollToButtom();
+
             }else{
                 alert('The message was empty!');
             }
@@ -91,6 +93,12 @@
         }
 
         
+        //
 
+        function scrollToButtom() {
+            const objDiv = document.querySelector('#chat-messages');
+            objDiv.scrollTop = objDiv.scrollHeight;
+        }
+        scrollToButtom()
     </script>
 {% endblock %}
