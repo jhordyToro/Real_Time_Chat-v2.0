@@ -1,5 +1,5 @@
 ### Chat Real Time 
-<img src="https://raw.githubusercontent.com/jhordyToro/Real_Time_Chat-v2.0/main/static/view-chat-page.gif">
+<img src="https://raw.githubusercontent.com/jhordyToro/Real_Time_Chat-v2.0/sending_messages/static/chat-real-time.gif">
 
 ### Log In of the Page
 <img src="https://i.imgur.com/8zL5f9R.png">
